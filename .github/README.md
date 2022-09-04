@@ -12,7 +12,7 @@
 
 ## Deploy Your Own LeGenD Robot 💜(Deploy To Heroku)💜
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShikariBaaZ/LegendRobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jatindalal875/ava)
 
 ━━━━━━━━━━━━━━━━━━━━
 
@@ -29,11 +29,8 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 ### Special Credits 💖
-- [SAM](LAWLESS OWNER): Dev
-- [❤️JANA❤️] : Dev
-- [Joey] : Dev
 - [SHIKARI](https://github.com/ShikariBaaZ): Dev
-- [HARPREET](https://telegram.me/ITS_HARPREET_KING) : Dev
+- [hunter](https://telegram.me/hunter_is_back) : Dev
 
 
 ━━━━━━━━━━━━━━━━━━━━
